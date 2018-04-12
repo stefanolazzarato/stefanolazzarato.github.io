@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>iNTRINSeCO Blog</title>
-    <link>http://www.intrinseco.it/</link>
+    <link>https://stefanolazzarato.github.io/</link>
     <description>Recent content on iNTRINSeCO Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Apr 2018 12:58:47 +0200</lastBuildDate>
     
-	<atom:link href="http://www.intrinseco.it/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stefanolazzarato.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2018 04 12 Helloworld</title>
-      <link>http://www.intrinseco.it/post/2018-04-12-helloworld/</link>
+      <link>https://stefanolazzarato.github.io/post/2018-04-12-helloworld/</link>
       <pubDate>Thu, 12 Apr 2018 12:58:47 +0200</pubDate>
       
-      <guid>http://www.intrinseco.it/post/2018-04-12-helloworld/</guid>
+      <guid>https://stefanolazzarato.github.io/post/2018-04-12-helloworld/</guid>
       <description>Hello everybody! This is the first post on the new iNTRINSeCO Blog!</description>
     </item>
     
