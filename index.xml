@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>iNTRINSeCO Blog</title>
+    <title>iNTRINSeCO</title>
     <link>https://stefanolazzarato.github.io/</link>
-    <description>Recent content on iNTRINSeCO Blog</description>
+    <description>Recent content on iNTRINSeCO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Apr 2018 12:58:47 +0200</lastBuildDate>
